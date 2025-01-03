@@ -13,5 +13,5 @@ BBLAYERS ?= " \
   ##OEROOT##/meta-phosphor \
   ##OEROOT##/meta-aspeed \
   ##OEROOT##/meta-asrock \
-  ##OEROOT##/meta-asrock/meta-romed8hm3 \
+  ##OEROOT##/meta-asrock/meta-epyccd8t2 \
   "

@@ -1,5 +1,5 @@
 {
-  "comments": [ "Config file for ASRock Rack ROMED8HM3" ],
+  "comments": [ "Config file for ASRock Rack EPYCD8-2T" ],
   "chassis": [
     {
       "comments": [ "Chassis number 1 containing CPUs and memory" ],
@@ -10,7 +10,7 @@
           "comments": [ "ISL96147 regulator producing the VDDCR_CPU rail" ],
           "id": "vddcr_cpu_regulator",
           "is_regulator": true,
-          "fru": "system/board/ASRock_ROMED8HM3",
+          "fru": "system/board/ASRock_EPYCD8-2T",
           "i2c_interface": {
             "bus": 6,
             "address": "0x60"

@@ -1,4 +1,4 @@
-MACHINE ??= "romed8hm3"
+MACHINE ??= "epyccd8t2"
 DISTRO ?= "openbmc-phosphor"
 PACKAGE_CLASSES ?= "package_ipk"
 SANITY_TESTED_DISTROS:append ?= " *"
